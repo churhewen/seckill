@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SecKill" />
+        <module name="model" />
+        <module name="server" />
+        <module name="api" />
       </profile>
     </annotationProcessing>
   </component>
