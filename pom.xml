@@ -13,10 +13,6 @@
         <module>model</module>
         <module>server</module>
     </modules>
-    <properties>
-        <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
-        <java.version>1.8</java.version>
-        <maven.compiler.source>${java.version}</maven.compiler.source>
-        <maven.compiler.target>${java.version}</maven.compiler.target>
-    </properties>
+
+
 </project>
